@@ -1,4 +1,6 @@
 $navbar-default-bg:  #2d862d;
+$navbar-default-link-color: #fff;
+$navbar-default-link-active-color: #fff;
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
@@ -23,7 +25,7 @@ $navbar-default-bg:  #2d862d;
 .jumbotron {
   background-image: asset-url('DSC_0035.jpg');
   background-size: cover;
-  height: 460px;
+  height: 560px;
 }
 
 .jumbotron h1 {
